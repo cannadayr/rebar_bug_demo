@@ -1,0 +1,4 @@
+[{<<"rebar_bug_demo_dep">>,
+  {git,"https://github.com/cannadayr/rebar_bug_demo_dep.git",
+       {ref,"d5e5fb13c11e2cf4a91fb7b7163a46882c009b19"}},
+  0}].
